@@ -8,7 +8,7 @@
     <p>
       <ul class="BioPoints">
         <li>🌱 <strong>Currently Learning:</strong> HTML / CSS for webshop frontend design</li>
-        <li>🐇 <strong>Hobby Project:</strong> <a href="https://animal-of-the-week.fly.dev/" target=”_blank”>Animal of the Week</a></li>
+        <li>🐇 <strong>Hobby Project:</strong> <a href="https://animal-of-the-week.fly.dev/" target="_blank">Animal of the Week</a></li>
       </ul>
     <pre class="ASCII">
     <em>pyon pyon! ~</em><br>
